@@ -17,5 +17,6 @@ public class MainForPC {
         thePC.getMonitor().drawPixelAt(1500,  1200, "red" );
         thePC.getMotherboard().loadProgram("Windows XP");
         thePC.getTheCase().pressPowerButton();
+
     }
 }
