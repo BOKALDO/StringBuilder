@@ -1,3 +1,3 @@
 # StringBuilder
-Svaigs apps
+Svaiga appa
 GitHub Repo
