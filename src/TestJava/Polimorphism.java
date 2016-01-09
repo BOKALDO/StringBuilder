@@ -69,8 +69,6 @@ class Forgettable extends Movie{
     //tukshums
 }
 
-
-
 public class Polimorphism {
     public static void main(String[] args){
 
