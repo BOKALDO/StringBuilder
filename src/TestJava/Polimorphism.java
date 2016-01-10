@@ -66,7 +66,7 @@ class Forgettable extends Movie{
     public Forgettable() {
         super("Forgettable");
     }
-    //tukshums
+    //Briiva vieta te
 }
 
 public class Polimorphism {
